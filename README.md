@@ -9,7 +9,12 @@
 
 ## Installation
 
-(Instructions for installation will go here once the project has more structure, e.g., dependencies and scripts.)
+To use `mYTdl`, you need to have `yt-dlp.exe` and `ffmpeg.exe` installed system-wide. You can install them using Winget:
+
+```bash
+winget install yt-dlp
+winget install ffmpeg
+```
 
 ## Usage
 
